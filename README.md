@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting a degree<br>🌱 I’m currently learning image processing in opengl<br>💬 Ask me about movies and compilers
+🔭 I’m currently working as a Java Backend Developer<br>🌱 I’m currently learning image processing in opengl<br>💬 Ask me about movies and compilers
 
 
 ## 🌐 Socials:
